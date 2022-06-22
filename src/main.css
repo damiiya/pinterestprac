@@ -1,0 +1,13 @@
+@media(min-width: 1260px) and (max-width: 1511px) {
+    .main__container{
+        max-width: 1260ps;
+        column-count: 5;
+    }
+}
+
+@media(min-width: 1512px) and (max-width: 1763px) {
+    .main__container{
+        width: 1512px;
+        column-count: 6;
+    }
+}
